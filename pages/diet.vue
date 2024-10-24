@@ -4,10 +4,13 @@
 <template>
     <div>
         <header>
-            This is header
+            <h1>Dashboard</h1>
+            <p>All your diets</p>
         </header>
         <main>
-            main
+            <div>
+                tab: Today Yesterday etc.
+            </div>
             <section>
                 section
             </section>
